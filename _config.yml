@@ -1,4 +1,3 @@
-layout_spectrum: 0.48785135452635586
 typography_spectrum: 0.9821693790145218
 color:
   brandStrength: 0.5236373227089643
@@ -6,9 +5,11 @@ color:
   saturation: 0.9228059079032391
   rhythmicContrast: 0.305198238696903
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.48785135452635586
 name: Troy Flowers
+description: INSPIRATION IS EVERYTHING
